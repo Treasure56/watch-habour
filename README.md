@@ -12,3 +12,7 @@ Watch habour is an eccomerce for different categories of watches
 ## Collaborators
 - Theo
 - Prince
+
+## Guide
+### Running the android apk
+The abdroid apk is located in `/app`, install it on an android device and run it
