@@ -1,7 +1,7 @@
-import 'package:watch_habour/utils/dimensions.dart';
+import 'package:watch_hub/utils/dimensions.dart';
 import 'package:flutter/material.dart';
-import 'package:watch_habour/utils/theme.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/utils/theme.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 enum AppButtonStyle { primary, secondary }
 

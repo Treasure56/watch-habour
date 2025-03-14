@@ -1,7 +1,7 @@
-import 'package:watch_habour/data/categories.dart';
-import 'package:watch_habour/data/products.dart';
-import 'package:watch_habour/models/category.dart';
-import 'package:watch_habour/models/product.dart';
+import 'package:watch_hub/data/categories.dart';
+import 'package:watch_hub/data/products.dart';
+import 'package:watch_hub/models/category.dart';
+import 'package:watch_hub/models/product.dart';
 
 class Api {
   static List<CategoryModel> getAllCategories() {

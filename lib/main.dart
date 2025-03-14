@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:watch_habour/screens/welcome.dart';
-import 'package:watch_habour/utils/theme.dart';
+import 'package:watch_hub/screens/welcome.dart';
+import 'package:watch_hub/utils/theme.dart';
 import 'package:oktoast/oktoast.dart';
 
 void main() {
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'WatchHabour',
+      title: 'WatchHub',
       theme: AppTheme.lightTheme,
       home: const WelcomeScreen(),
     );

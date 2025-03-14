@@ -1,7 +1,7 @@
-import 'package:watch_habour/functions/modal.dart';
-import 'package:watch_habour/utils/dimensions.dart';
-import 'package:watch_habour/widgets/dropdown_modal.dart';
-import 'package:watch_habour/widgets/ui/text.dart';
+import 'package:watch_hub/functions/modal.dart';
+import 'package:watch_hub/utils/dimensions.dart';
+import 'package:watch_hub/widgets/dropdown_modal.dart';
+import 'package:watch_hub/widgets/ui/text.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 

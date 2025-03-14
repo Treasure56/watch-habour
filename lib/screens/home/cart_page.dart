@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:watch_habour/models/cart_item.dart';
-import 'package:watch_habour/screens/checkout.dart';
-import 'package:watch_habour/state/cart.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/cart_product_card.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/models/cart_item.dart';
+import 'package:watch_hub/screens/checkout.dart';
+import 'package:watch_hub/state/cart.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/cart_product_card.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class CartPage extends ConsumerStatefulWidget {
   const CartPage({super.key});

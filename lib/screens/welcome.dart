@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:watch_habour/screens/login.dart';
-import 'package:watch_habour/screens/register.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/screens/login.dart';
+import 'package:watch_hub/screens/register.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});

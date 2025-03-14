@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:watch_habour/utils/utils.dart';
+import 'package:watch_hub/utils/utils.dart';
 
 class SearchInput extends StatelessWidget {
   const SearchInput(

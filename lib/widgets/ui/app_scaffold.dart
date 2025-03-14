@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class AppScaffold extends StatelessWidget {
   const AppScaffold(

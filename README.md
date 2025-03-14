@@ -1,6 +1,6 @@
-# Watch Habour
+# Watch Hub
 
-Watch habour is an eccomerce for different categories of watches
+Watch hub is an eccomerce for different categories of watches
 
 ## Features
 - search by watch name or brand

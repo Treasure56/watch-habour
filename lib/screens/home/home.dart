@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:watch_habour/screens/home/account_page.dart';
-import 'package:watch_habour/screens/home/cart_page.dart';
-import 'package:watch_habour/screens/home/home_page.dart';
-import 'package:watch_habour/screens/home/wishlist_page.dart';
-import 'package:watch_habour/utils/theme.dart';
-import 'package:watch_habour/utils/utils.dart';
+import 'package:watch_hub/screens/home/account_page.dart';
+import 'package:watch_hub/screens/home/cart_page.dart';
+import 'package:watch_hub/screens/home/home_page.dart';
+import 'package:watch_hub/screens/home/wishlist_page.dart';
+import 'package:watch_hub/utils/theme.dart';
+import 'package:watch_hub/utils/utils.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});

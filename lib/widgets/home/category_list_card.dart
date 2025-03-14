@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:watch_habour/models/category.dart';
-import 'package:watch_habour/screens/category_single.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/models/category.dart';
+import 'package:watch_hub/screens/category_single.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class CategoryListCard extends StatelessWidget {
   const CategoryListCard({super.key, required this.category});

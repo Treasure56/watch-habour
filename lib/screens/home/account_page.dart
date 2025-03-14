@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:watch_habour/screens/notifications.dart';
-import 'package:watch_habour/screens/settings/account_settings.dart';
-import 'package:watch_habour/screens/welcome.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/ui/text.dart';
+import 'package:watch_hub/screens/notifications.dart';
+import 'package:watch_hub/screens/settings/account_settings.dart';
+import 'package:watch_hub/screens/welcome.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/ui/text.dart';
 
 class AccountPage extends ConsumerStatefulWidget {
   const AccountPage({super.key});

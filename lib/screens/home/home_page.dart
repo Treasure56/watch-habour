@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:watch_habour/api/api.dart';
-import 'package:watch_habour/models/product.dart';
-import 'package:watch_habour/screens/search.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/home/category_list.dart';
-import 'package:watch_habour/widgets/product_card.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/api/api.dart';
+import 'package:watch_hub/models/product.dart';
+import 'package:watch_hub/screens/search.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/home/category_list.dart';
+import 'package:watch_hub/widgets/product_card.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const SizedBox(height: 12),
-          const AppText.medium("WatchHabour"),
+          const AppText.medium("WatchHub"),
           const SizedBox(height: 12),
           AppTextField(
             controller: _textEditingController,

@@ -1,14 +1,14 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:watch_habour/api/api.dart';
-import 'package:watch_habour/functions/functions.dart';
-import 'package:watch_habour/models/cart_item.dart';
-import 'package:watch_habour/models/product.dart';
-import 'package:watch_habour/screens/product_single.dart';
-import 'package:watch_habour/state/cart.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/api/api.dart';
+import 'package:watch_hub/functions/functions.dart';
+import 'package:watch_hub/models/cart_item.dart';
+import 'package:watch_hub/models/product.dart';
+import 'package:watch_hub/screens/product_single.dart';
+import 'package:watch_hub/state/cart.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class CartProductCard extends ConsumerStatefulWidget {
   const CartProductCard(

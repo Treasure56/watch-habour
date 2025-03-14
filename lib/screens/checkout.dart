@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class CheckoutScreen extends ConsumerStatefulWidget {
   const CheckoutScreen({super.key});

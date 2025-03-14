@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:watch_habour/screens/login.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/screens/login.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class RegisterScreen extends StatefulWidget {
   const RegisterScreen({super.key});
@@ -21,7 +21,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              const AppText.big("Join WatchHabour"),
+              const AppText.big("Join WatchHub"),
               const SizedBox(height: 20),
               const AppTextField(
                 label: "Full Name",

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:watch_habour/api/api.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/home/category_list_card.dart';
-import 'package:watch_habour/widgets/widgets.dart';
+import 'package:watch_hub/api/api.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/home/category_list_card.dart';
+import 'package:watch_hub/widgets/widgets.dart';
 
 class HomePageCategoryList extends StatefulWidget {
   const HomePageCategoryList({super.key});

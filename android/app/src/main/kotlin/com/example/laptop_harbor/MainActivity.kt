@@ -1,4 +1,4 @@
-package com.example.watch_habour
+package com.example.watch_hub
 
 import io.flutter.embedding.android.FlutterActivity
 

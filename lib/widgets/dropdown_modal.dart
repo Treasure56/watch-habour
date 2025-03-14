@@ -1,6 +1,6 @@
-import 'package:watch_habour/utils/dimensions.dart';
-import 'package:watch_habour/utils/navigation.dart';
-import 'package:watch_habour/widgets/ui/text.dart';
+import 'package:watch_hub/utils/dimensions.dart';
+import 'package:watch_hub/utils/navigation.dart';
+import 'package:watch_hub/widgets/ui/text.dart';
 import 'package:flutter/material.dart';
 
 class DropdownModal extends StatelessWidget {

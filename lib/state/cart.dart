@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:watch_habour/functions/functions.dart';
-import 'package:watch_habour/models/cart_item.dart';
-import 'package:watch_habour/models/product.dart';
+import 'package:watch_hub/functions/functions.dart';
+import 'package:watch_hub/models/cart_item.dart';
+import 'package:watch_hub/models/product.dart';
 
 class CartState {
   static final items = StateProvider<List<CartItemModel>>((ref) => []);

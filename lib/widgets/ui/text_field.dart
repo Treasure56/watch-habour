@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:watch_habour/utils/utils.dart';
-import 'package:watch_habour/widgets/ui/ui.dart';
+import 'package:watch_hub/utils/utils.dart';
+import 'package:watch_hub/widgets/ui/ui.dart';
 
 class AppTextField extends StatefulWidget {
   const AppTextField(
